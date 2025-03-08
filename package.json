@@ -20,7 +20,7 @@
 		"@testing-library/user-event": "^7.2.1",
 		"aos": "^2.3.4",
 		"bootstrap": "^4.5.0",
-		"contentful": "^7.14.4",
+		"contentful": "^11.5.4",
 		"cors": "^2.8.5",
 		"html-react-parser": "^0.10.5",
 		"luxon": "^1.24.1",
